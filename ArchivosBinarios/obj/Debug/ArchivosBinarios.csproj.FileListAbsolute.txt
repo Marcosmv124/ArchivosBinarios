@@ -1,0 +1,10 @@
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\bin\Debug\EjemploArchivoBinario.dll
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\bin\Debug\EjemploArchivoBinario.pdb
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CopyComplete
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+C:\Users\user1\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
