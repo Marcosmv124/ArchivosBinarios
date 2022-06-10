@@ -13,6 +13,7 @@ namespace ArchivosBinarios
         
         static void Main(string[] args)
         {
+            Console.Title = "ARCHIVO EMPLEADO"; 
             //declaración variables auxiliares
             string Arch = null;
             int opcion;

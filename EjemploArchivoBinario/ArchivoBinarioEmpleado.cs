@@ -30,7 +30,7 @@ namespace EjemploArchivoBinario
                 do
                 {
                     Console.Clear();
-                    Console.Write("Numero de empleados: ");
+                    Console.Write("Numero de empleado: ");
                     numEmp = int.Parse(Console.ReadLine());
                     Console.Write("Nombre del empleado: ");
                     Nombre = Console.ReadLine();
@@ -108,7 +108,7 @@ namespace EjemploArchivoBinario
                 else
                 {
                     Console.Clear();
-                    Console.WriteLine("\n\nEl Archivo " + Archivo + " No Existe en el Disco!!");
+                    Console.WriteLine("\n\nEl Archivo " + Archivo + " No Existe en el Disco!! ");
                     
 
                     Console.Write("\nPresione <enter> para Continuar...");
@@ -124,7 +124,7 @@ namespace EjemploArchivoBinario
             finally
             {
                 if (br != null) br.Close(); //cierra flujo
-                Console.Write("\nPresione <enter> para terminar la Lectura de Datos y regresar al Menu.");
+                Console.Write("\nPresione <enter> para terminar la Lectura de Datos y regresar al Menu. ");
                 
 
                 Console.ReadKey();
